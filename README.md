@@ -6,8 +6,9 @@
  - :zap: Linux and C/C++ enthusiast
 
 ### Social profiles
- - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="20px"> <a href="https://www.linkedin.com/in/iacopiniemiliano/">My Linkedin Profile</a>
+ - <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="20px" margin="10px"> <a href="https://www.linkedin.com/in/iacopiniemiliano/">My Linkedin Profile</a>
  - :mailbox_with_mail: iacopini.emiliano@protonmail.com
+ - <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" width="20px"> <a href="https://twitter.com/iacoviola">@iacoviola on Twitter</a>
 
 <!--
 **iacoviola/iacoviola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
