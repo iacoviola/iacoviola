@@ -1,14 +1,15 @@
-# My Personal Github profile README
+# IACOVIOLA.md
 
 ### About me
  - :mortar_board: Currently enrolled at the university of Pisa
  - :seedling: Currently learning the Unity 3D game engine and the SDL2 C++ graphics library
  - :zap: Linux and C/C++ enthusiast
+ - :video_game: Passionate about gaming, cinema and music
 
 ### Social profiles
- - <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="20px" margin="10px"> <a href="https://www.linkedin.com/in/iacopiniemiliano/">My Linkedin Profile</a>
- - :mailbox_with_mail: iacopini.emiliano@protonmail.com
- - <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" width="20px"> <a href="https://twitter.com/iacoviola">@iacoviola on Twitter</a>
+ - <a href="https://www.linkedin.com/in/iacopiniemiliano/"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="18px"> Emiliano Iacopini on Linkedin </a><br>
+ - <a href="mailto:iacopini.emiliano@protonmail.com"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/mail.svg" width="18px"> iacopini.emiliano@protonmail.com </a><br>
+ - <a href="https://twitter.com/iacoviola"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" width="18px"> @iacoviola on Twitter </a><br>
 
 <!--
 **iacoviola/iacoviola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,6 +40,7 @@ Here are some ideas to get you started:
 ### :hammer_and_wrench: Tools and Frameworks:
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="48px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sdl/sdl-original.svg" width="48px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" width="48px">
