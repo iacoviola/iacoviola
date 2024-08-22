@@ -9,7 +9,6 @@
 ### Social profiles
  - <a href="https://www.linkedin.com/in/iacopiniemiliano/"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="18px"> Emiliano Iacopini on Linkedin </a><br>
  - <a href="mailto:iacopini.emiliano@protonmail.com"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/mail.svg" width="18px"> iacopini.emiliano@protonmail.com </a><br>
- - <a href="https://twitter.com/IacoviolaTB"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" width="18px"> @IacoviolaTB on Twitter </a><br>
 
 <!--
 **iacoviola/iacoviola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
